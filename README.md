@@ -6,7 +6,7 @@
 - Interactive UI using Tkinter 
 - Key-based encoding & decoding system
 
-Tech Stack
+## Tech Stack
 - Programming Language: Python
 - UI : Tkinter
 

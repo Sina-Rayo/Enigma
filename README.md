@@ -22,6 +22,8 @@ Run the script:
 ```bash
 python enigma.py
 ```
+
+## Usage
 Enter your key [ three numbers (0-9) & three letters (a-z) ].
 
 Type your message to encrypt.
